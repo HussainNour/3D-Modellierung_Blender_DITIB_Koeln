@@ -6,12 +6,12 @@ Dieses Blender-Projekt enthält ein detailliertes 3D-Modell der Kölner DITIB-Ze
 Zusätzlich beinhaltet das Projekt eine Tag-Nacht-Animation, die den Übergang zwischen verschiedenen Lichtverhältnissen simuliert und eine realistische Beleuchtung darstellt.
 
 ## Vorschau ##
-![Bild 1](./1.png)
-![Bild 2](./2.png)
-![Bild 3](./3.png)
-![Bild 4](./4.png)
-![Bild 5](./.png)
-![Bild 6](./.png)
+![Bild 1](./Pic1.png)
+![Bild 2](./Pic2.png)
+![Bild 3](./Pic3.png)
+![Bild 4](./Pic4.png)
+![Bild 5](./Pic5.png)
+![Bild 6](./Pic6.png)
 
 
 
